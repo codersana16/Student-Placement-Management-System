@@ -1,0 +1,7 @@
+ID,Name,Email,Course,CGPA,Placed,Company,Package
+101,Sana,Sana.hussain122@gmail.com,MCA,9.5,true,Google,6.0
+102,Anam,anam@123gmail.com,MBA,9.0,true,Microsoft,8.0
+106,Kamran,kmran@123gmail.com,Btech,8.0,false,,0.0
+108,ALman,Alman@123gmail.com,Btech,7.65,true,Capgemini,12.0
+204,Rohan,rohan@gmail.com,bcom,9.0,false,,0.0
+206,Sarita,sarita@123gmail.com,MCA,9.0,false,,0.0
